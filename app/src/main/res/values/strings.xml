@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">authentication</string>
+    <string name="email">email</string>
+    <string name="send_code">send code</string>
+    <string name="code">code</string>
+    <string name="confirm">confirm</string>
+    <string name="wrong_email">wrong email ?</string>
+    <string name="welcome">Welcome</string>
+    <string name="_00_00">00:00</string>
+</resources>
